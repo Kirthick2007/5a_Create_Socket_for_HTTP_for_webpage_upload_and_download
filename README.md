@@ -1,6 +1,6 @@
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
-## NAME:RAJESHWARAN.D
-## REG NO:212223040165
+## NAME: KIRTHICK SHA R
+## REG NO: 212224230124
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
@@ -57,7 +57,7 @@ To write a PYTHON program for socket for HTTP for web page upload and download
         print("File downloaded successfully.")
         
 ## OUTPUT
-![386930571-9615f751-a790-4861-a1b0-ee96be4932e7](https://github.com/user-attachments/assets/2e956931-406e-4cc1-946c-116f8fb26839)
+<img width="805" height="288" alt="image" src="https://github.com/user-attachments/assets/abfef449-60b5-4129-9017-6ed681982493" />
 
 
 ## Result
